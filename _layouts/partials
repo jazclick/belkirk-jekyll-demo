@@ -1,1 +1,12 @@
-logo.html
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>logo</title>
+</head>
+	
+
+<body>
+<img src="/img/logo.png" width="143" height="57" alt=""/>
+</body>
+</html>
