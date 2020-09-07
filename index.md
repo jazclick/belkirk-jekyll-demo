@@ -17,10 +17,7 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Safety Child Birth in Cebu Philippines
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+textline: Trusted Paanaka sa Minglanilla og Talisay
 hero_button:
   text: Learn more
   href: "/about"
