@@ -9,6 +9,7 @@ sub_heading: Doctor
 email: murphy@belkirkcollege.com
 linkedin: ''
 layout: person
+published: false
 
 ---
 Doctor Murphy Tiernan joined Belkirk in 2015 as a Professor.
