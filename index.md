@@ -9,7 +9,7 @@ partners:
 - "/uploads/2017/11/13/stem.png"
 services:
 - description: Performing collaborative research and providing services to support
-    the Health Sector.
+    the Health Sector here in Cebu Philippines
   heading: Health
   icon: "/uploads/2017/11/13/health.png"
 - description: Performing collaborative research and providing services to support
